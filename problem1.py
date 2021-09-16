@@ -1,0 +1,2 @@
+userBirthYear = int(input("Enter your birth year: ")) #Converts the user input to an int
+print("Your age is: " + str(2021-userBirthYear)) #Calculates the user age by subtracting their birth year from 2021
